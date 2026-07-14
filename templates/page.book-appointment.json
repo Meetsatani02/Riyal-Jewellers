@@ -204,7 +204,7 @@
             "bg_banner": "rgba(0,0,0,0)",
             "image": "shopify:\/\/shop_images\/about-sustainability.webp",
             "width": "3",
-            "description": "<div class=\"mb-3 subtop\"> Complimentary <\/div><p>We’ve got you covered. There are no hidden costs or spending limits—all you have to do is show up ready to explore and ask questions, and we’ll take care of the rest.<\/p>",
+            "description": "<div class=\"mb-3 subtop\"> Complimentary <\/div><p>We’ve got you covered. There are no hidden costs or spending limits, all you have to do is show up ready to explore and ask questions, and we’ll take care of the rest.<\/p>",
             "button_text": "",
             "button_link": "",
             "style_btn": "btn-underline",
