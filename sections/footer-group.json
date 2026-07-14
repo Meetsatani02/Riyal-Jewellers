@@ -169,7 +169,7 @@
             "btn_cl_new": "#ffffff",
             "btn_cl_new_hover": "#ffffff",
             "title": "",
-            "subheading": "<h4>Get 10% off your first order<\/h4><p>Be the first to know about new collections, exclusive offers, and events with Cadiant ✨<\/p>",
+            "subheading": "<h4>Get 10% off your first order<\/h4><p>Be the first to know about new collections, exclusive offers, and events with Riyal Jewellers ✨<\/p>",
             "enablesocial": true,
             "width": "25%"
           }
@@ -188,7 +188,7 @@
           "settings": {
             "widthlogofooter": 150,
             "title": "Contact Us",
-            "text": "<div class=\" rte\">\n<p class=\"mt-3\">Email: clientcare@cadiant.com<br>\nPhone: 1.888.838.3022<br>\nHours: Monday – Thursday: 9AM – 7PM ET, Friday: 9AM – 2PM ET<\/p>\n<\/div>",
+            "text": "<div class=\" rte\">\n<p class=\"mt-3\">Riyal Jewellers<br>\n1/2 Jay Yogeshwar Society, Shyamdham Mandir, Surat, Gujarat, 395006, India<br>\nEmail: Riyaljewellers01@gmail.com<br>\nPhone: +91 95866 65899<\/p>\n<\/div>",
             "width": "20%"
           }
         },
@@ -279,7 +279,7 @@
         "title_color": "#ffffff",
         "title_top": "",
         "title": "",
-        "text": "<p>© 2024 - Cadiant. All rights reserved.<\/p>",
+        "text": "<p>© 2024 - Riyal Jewellers. All rights reserved.<\/p>",
         "align-heading": "center",
         "align-content": "center",
         "paddingsection": "10px 0px 0px 0px",

@@ -1,0 +1,208 @@
+{%- liquid
+  assign biz_name = 'Riyal Jewellers'
+  assign biz_email = 'Riyaljewellers01@gmail.com'
+  assign biz_phone = '+91 95866 65899'
+  assign biz_address = '1/2 Jay Yogeshwar Society, Shyamdham Mandir, Surat, Gujarat, 395006, India'
+  assign updated = '14 July 2026'
+-%}
+
+<style>
+  .legal-page{padding:48px 0 64px;}
+  .legal-page .legal-title{margin-bottom:8px;}
+  .legal-page .legal-updated{opacity:.7;font-size:14px;margin-bottom:32px;display:block;}
+  .legal-page h2{margin:32px 0 12px;font-size:22px;}
+  .legal-page p,.legal-page li{line-height:1.7;}
+  .legal-page ul{padding-left:1.2rem;margin-bottom:1rem;}
+  .legal-page .legal-contact-box{border:1px solid var(--g-color-border,#e6e6e6);border-radius:8px;padding:24px;margin-top:16px;}
+  .legal-page a{text-decoration:underline;}
+</style>
+
+<div class="container legal-page">
+  <div class="content-block--page rte">
+  {%- case page.handle -%}
+
+  {%- when 'privacy-policy' -%}
+    <h1 class="legal-title">Privacy Policy</h1>
+    <span class="legal-updated">Last updated: {{ updated }}</span>
+    <p>At {{ biz_name }}, accessible from this website, one of our main priorities is the privacy of our visitors and customers. This Privacy Policy explains what information we collect, why we collect it, and how we use and safeguard it.</p>
+
+    <h2>Information We Collect</h2>
+    <p>We collect the following information when you browse our website, create an account, or place an order:</p>
+    <ul>
+      <li>Personal identification details such as your name, email address, phone number and billing/shipping address.</li>
+      <li>Order and transaction details necessary to process and deliver your purchase.</li>
+      <li>Payment information, which is collected and processed securely by our payment gateway partner (Razorpay). We do not store your card, UPI or bank details on our servers.</li>
+      <li>Technical data such as your IP address, browser type and cookies used to improve your browsing experience.</li>
+    </ul>
+
+    <h2>How We Use Your Information</h2>
+    <ul>
+      <li>To process, fulfil and deliver your orders.</li>
+      <li>To communicate with you regarding your order, enquiries and customer support.</li>
+      <li>To send you updates, offers and marketing communications (only where you have opted in).</li>
+      <li>To improve our website, products and services.</li>
+      <li>To detect, prevent and address fraud or technical issues.</li>
+    </ul>
+
+    <h2>Sharing of Information</h2>
+    <p>We do not sell or rent your personal information. We share it only with trusted third parties who help us operate our business, such as payment processors (Razorpay), logistics/courier partners, and only to the extent necessary to fulfil your order or comply with the law.</p>
+
+    <h2>Data Security</h2>
+    <p>We implement appropriate technical and organisational measures to protect your personal information against unauthorised access, alteration, disclosure or destruction. All payments are processed over encrypted, PCI-DSS compliant channels.</p>
+
+    <h2>Cookies</h2>
+    <p>Our website uses cookies to enhance your experience, remember your cart and analyse site traffic. You may disable cookies through your browser settings, though some features of the site may not function properly as a result.</p>
+
+    <h2>Your Rights</h2>
+    <p>You may request access to, correction of, or deletion of your personal data at any time by contacting us at {{ biz_email }}.</p>
+
+    <h2>Contact Us</h2>
+    <div class="legal-contact-box">
+      <p><strong>{{ biz_name }}</strong><br>
+      {{ biz_address }}<br>
+      Email: <a href="mailto:{{ biz_email }}">{{ biz_email }}</a><br>
+      Phone: <a href="tel:+919586665899">{{ biz_phone }}</a></p>
+    </div>
+
+  {%- when 'terms-and-conditions' -%}
+    <h1 class="legal-title">Terms &amp; Conditions</h1>
+    <span class="legal-updated">Last updated: {{ updated }}</span>
+    <p>Welcome to {{ biz_name }}. By accessing or using this website and placing an order with us, you agree to be bound by the following Terms &amp; Conditions. Please read them carefully.</p>
+
+    <h2>General</h2>
+    <p>These terms govern your use of our website and your purchase of products from {{ biz_name }}. We reserve the right to update or modify these terms at any time without prior notice. Continued use of the website constitutes your acceptance of the revised terms.</p>
+
+    <h2>Products &amp; Pricing</h2>
+    <ul>
+      <li>All products are subject to availability. We make every effort to display product colours, descriptions and details as accurately as possible.</li>
+      <li>All prices are listed in Indian Rupees (INR) and are inclusive of applicable taxes unless stated otherwise.</li>
+      <li>We reserve the right to change prices and to correct any errors, inaccuracies or omissions at any time without prior notice.</li>
+    </ul>
+
+    <h2>Orders &amp; Payment</h2>
+    <p>By placing an order you confirm that all details you provide are true and accurate. Payments are processed securely through our payment gateway partner, Razorpay. We reserve the right to accept or decline any order at our discretion.</p>
+
+    <h2>Intellectual Property</h2>
+    <p>All content on this website, including images, text, logos and designs, is the property of {{ biz_name }} and may not be copied, reproduced or used without our prior written permission.</p>
+
+    <h2>Limitation of Liability</h2>
+    <p>{{ biz_name }} shall not be liable for any indirect, incidental or consequential damages arising out of the use of, or inability to use, our website or products.</p>
+
+    <h2>Governing Law &amp; Jurisdiction</h2>
+    <p>These Terms &amp; Conditions are governed by the laws of India. Any disputes shall be subject to the exclusive jurisdiction of the courts of Surat, Gujarat, India.</p>
+
+    <h2>Contact Us</h2>
+    <div class="legal-contact-box">
+      <p><strong>{{ biz_name }}</strong><br>
+      {{ biz_address }}<br>
+      Email: <a href="mailto:{{ biz_email }}">{{ biz_email }}</a><br>
+      Phone: <a href="tel:+919586665899">{{ biz_phone }}</a></p>
+    </div>
+
+  {%- when 'cancellation-and-refund-policy' -%}
+    <h1 class="legal-title">Cancellation &amp; Refund Policy</h1>
+    <span class="legal-updated">Last updated: {{ updated }}</span>
+    <p>At {{ biz_name }}, we want you to be completely satisfied with your purchase. This policy explains how cancellations, returns and refunds are handled.</p>
+
+    <h2>Order Cancellation</h2>
+    <ul>
+      <li>Orders can be cancelled within <strong>24 hours</strong> of placing them, provided they have not yet been dispatched.</li>
+      <li>To cancel an order, contact us at {{ biz_email }} or {{ biz_phone }} with your order number.</li>
+      <li>Once an order has been shipped, it cannot be cancelled but may be eligible for return as per the terms below.</li>
+    </ul>
+
+    <h2>Returns</h2>
+    <ul>
+      <li>Return requests must be raised within <strong>7 days</strong> of receiving your order.</li>
+      <li>Items must be unused, in their original condition and packaging, with all tags and certificates intact.</li>
+      <li>Customised, engraved or made-to-order jewellery is not eligible for return unless it arrives damaged or defective.</li>
+    </ul>
+
+    <h2>Refunds</h2>
+    <ul>
+      <li>Once your returned item is received and inspected, we will notify you of the approval or rejection of your refund.</li>
+      <li>Approved refunds are processed to your original payment method through Razorpay within <strong>5–7 business days</strong>.</li>
+      <li>Depending on your bank or card issuer, it may take additional time for the amount to reflect in your account.</li>
+    </ul>
+
+    <h2>Damaged or Defective Items</h2>
+    <p>If you receive a damaged or defective product, please contact us within 48 hours of delivery with photographs. We will arrange a replacement or full refund at no additional cost.</p>
+
+    <h2>Contact Us</h2>
+    <div class="legal-contact-box">
+      <p><strong>{{ biz_name }}</strong><br>
+      {{ biz_address }}<br>
+      Email: <a href="mailto:{{ biz_email }}">{{ biz_email }}</a><br>
+      Phone: <a href="tel:+919586665899">{{ biz_phone }}</a></p>
+    </div>
+
+  {%- when 'shipping-and-delivery-policy' -%}
+    <h1 class="legal-title">Shipping &amp; Delivery Policy</h1>
+    <span class="legal-updated">Last updated: {{ updated }}</span>
+    <p>{{ biz_name }} is committed to delivering your jewellery safely and on time. This policy explains our shipping process, timelines and charges.</p>
+
+    <h2>Order Processing</h2>
+    <ul>
+      <li>Orders are processed within <strong>1–3 business days</strong> after payment confirmation.</li>
+      <li>Orders are not shipped or delivered on Sundays or public holidays.</li>
+      <li>You will receive tracking details by email or SMS once your order has been dispatched.</li>
+    </ul>
+
+    <h2>Delivery Timelines</h2>
+    <ul>
+      <li><strong>Within India:</strong> Typically delivered within <strong>5–8 business days</strong> from the date of dispatch, depending on your location.</li>
+      <li>Delivery times are estimates and may vary due to courier delays, weather or other unforeseen circumstances.</li>
+    </ul>
+
+    <h2>Shipping Charges</h2>
+    <p>Shipping charges (if any) are calculated and displayed at checkout before you complete your purchase. We may offer free shipping on eligible orders as indicated on the website.</p>
+
+    <h2>Packaging &amp; Insurance</h2>
+    <p>All jewellery is shipped in secure, tamper-proof and discreet packaging. Shipments are insured until they are safely delivered to you.</p>
+
+    <h2>Undelivered or Delayed Shipments</h2>
+    <p>If your order has not arrived within the estimated timeframe, please contact us at {{ biz_email }} or {{ biz_phone }} and we will assist you in tracking your shipment.</p>
+
+    <h2>Contact Us</h2>
+    <div class="legal-contact-box">
+      <p><strong>{{ biz_name }}</strong><br>
+      {{ biz_address }}<br>
+      Email: <a href="mailto:{{ biz_email }}">{{ biz_email }}</a><br>
+      Phone: <a href="tel:+919586665899">{{ biz_phone }}</a></p>
+    </div>
+
+  {%- when 'contact-us' -%}
+    <h1 class="legal-title">Contact Us</h1>
+    <span class="legal-updated">We're here to help</span>
+    <p>Have a question about an order, a product or a custom design? Our team at {{ biz_name }} would love to hear from you. Reach out using any of the details below and we'll respond as soon as possible.</p>
+
+    <div class="legal-contact-box">
+      <p><strong>{{ biz_name }}</strong></p>
+      <p><strong>Address:</strong><br>{{ biz_address }}</p>
+      <p><strong>Email:</strong> <a href="mailto:{{ biz_email }}">{{ biz_email }}</a></p>
+      <p><strong>Phone / WhatsApp:</strong> <a href="tel:+919586665899">{{ biz_phone }}</a></p>
+      <p><strong>Business Hours:</strong><br>Monday – Saturday: 10:00 AM – 8:00 PM (IST)<br>Sunday: Closed</p>
+    </div>
+
+    <p class="mt-3">You can also message us on <a href="https://www.instagram.com/riyal_jewellers" target="_blank" rel="noopener">Instagram</a>.</p>
+
+    {%- if page.content != blank -%}
+      <div class="mt-4">{{ page.content }}</div>
+    {%- endif -%}
+
+  {%- else -%}
+    {%- if page.title != blank -%}<h1 class="legal-title">{{ page.title }}</h1>{%- endif -%}
+    {{ page.content }}
+
+  {%- endcase -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Legal / Policy Page",
+  "tag": "section",
+  "class": "spaced-section",
+  "settings": []
+}
+{% endschema %}
