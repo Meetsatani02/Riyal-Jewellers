@@ -21,7 +21,7 @@
   <div class="content-block--page rte">
   {%- case page.handle -%}
 
-  {%- when 'privacy-policy' -%}
+  {%- when 'privacy-policy', 'privacy', 'privacy-policies' -%}
     <h1 class="legal-title">Privacy Policy</h1>
     <span class="legal-updated">Last updated: {{ updated }}</span>
     <p>At {{ biz_name }}, accessible from this website, one of our main priorities is the privacy of our visitors and customers. This Privacy Policy explains what information we collect, why we collect it, and how we use and safeguard it.</p>
@@ -64,7 +64,7 @@
       Phone: <a href="tel:+919586665899">{{ biz_phone }}</a></p>
     </div>
 
-  {%- when 'terms-and-conditions' -%}
+  {%- when 'terms-and-conditions', 'terms-conditions', 'terms-of-service', 'terms', 'terms-of-use' -%}
     <h1 class="legal-title">Terms &amp; Conditions</h1>
     <span class="legal-updated">Last updated: {{ updated }}</span>
     <p>Welcome to {{ biz_name }}. By accessing or using this website and placing an order with us, you agree to be bound by the following Terms &amp; Conditions. Please read them carefully.</p>
@@ -99,7 +99,7 @@
       Phone: <a href="tel:+919586665899">{{ biz_phone }}</a></p>
     </div>
 
-  {%- when 'cancellation-and-refund-policy' -%}
+  {%- when 'cancellation-and-refund-policy', 'cancellation-refund-policy', 'refund-and-cancellation-policy', 'refund-policy', 'refunds', 'return-policy', 'returns-and-refunds' -%}
     <h1 class="legal-title">Cancellation &amp; Refund Policy</h1>
     <span class="legal-updated">Last updated: {{ updated }}</span>
     <p>At {{ biz_name }}, we want you to be completely satisfied with your purchase. This policy explains how cancellations, returns and refunds are handled.</p>
@@ -136,7 +136,7 @@
       Phone: <a href="tel:+919586665899">{{ biz_phone }}</a></p>
     </div>
 
-  {%- when 'shipping-and-delivery-policy' -%}
+  {%- when 'shipping-and-delivery-policy', 'shipping-delivery-policy', 'shipping-policy', 'shipping-and-returns', 'shipping', 'delivery-policy' -%}
     <h1 class="legal-title">Shipping &amp; Delivery Policy</h1>
     <span class="legal-updated">Last updated: {{ updated }}</span>
     <p>{{ biz_name }} is committed to delivering your jewellery safely and on time. This policy explains our shipping process, timelines and charges.</p>
@@ -171,7 +171,7 @@
       Phone: <a href="tel:+919586665899">{{ biz_phone }}</a></p>
     </div>
 
-  {%- when 'contact-us' -%}
+  {%- when 'contact-us', 'contact', 'contact-us-page', 'contactus' -%}
     <h1 class="legal-title">Contact Us</h1>
     <span class="legal-updated">We're here to help</span>
     <p>Have a question about an order, a product or a custom design? Our team at {{ biz_name }} would love to hear from you. Reach out using any of the details below and we'll respond as soon as possible.</p>
