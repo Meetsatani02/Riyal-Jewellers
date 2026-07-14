@@ -1,0 +1,301 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "16485444103c52f5e9": {
+      "type": "service",
+      "blocks": {
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-0": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "100 Day returns",
+            "description": "\"No questions asked\" return policy if you aren’t happy",
+            "type_icon": "svg",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-package\" viewbox=\"0 0 64 64\"><path d=\"M32 54.52L10 41.95v-19.9L32 9.48l22 12.57v19.9L32 54.52z\"><\/path><path d=\"M32 54.52v-19.9l22-12.57M32 34.62L10 22.05M41.7 15.02L21 28.33v8.38\"><\/path><\/svg>",
+            "link_block": "#",
+            "button": "Learn More",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-1": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Free shipping both ways",
+            "description": "Your package is insured and unmarked for privacy",
+            "type_icon": "svg",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-truck\" viewbox=\"0 0 64 64\"><path d=\"M16.5 43.22H6.88V16.5h33.14v26.72H23.94M45.42 43.22h-5.4V30.4h17.1v12.82h-4.23M57.12 30.4l-6.41-8.56H40.02\"><\/path><circle cx=\"20.24\" cy=\"43.76\" r=\"3.74\"><\/circle><path d=\"M45.42 43.23a3.82 3.82 0 1 1 0 .37v-.37\"><\/path><\/svg>",
+            "link_block": "#",
+            "button": "Learn More",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-2": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "100% lab grown",
+            "description": "We are proud to offer only lab grown diamonds",
+            "type_icon": "svg",
+            "icon": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M15.0039 10.2464C14.9149 10.2464 14.8326 10.2005 14.7855 10.1252L11.8344 5.3944C11.785 5.31515 11.7824 5.21532 11.8278 5.13339C11.8731 5.05167 11.9594 5.00082 12.0528 5.00082L17.9181 5C18.0113 5 18.0971 5.05043 18.1426 5.13195C18.1883 5.21346 18.1861 5.31289 18.1373 5.39235L15.2229 10.1242C15.1762 10.1999 15.0936 10.2464 15.0045 10.2466L15.0039 10.2464ZM12.5166 5.51565L15.0024 9.50065L17.4574 5.51483L12.5166 5.51565Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M9.1197 10.2464C9.03098 10.2464 8.94884 10.2007 8.90171 10.1258L5.93524 5.39502C5.88542 5.31577 5.88274 5.21573 5.92803 5.1336C5.97332 5.05187 6.05957 5.00082 6.15323 5.00082L12.0528 5C12.1461 5 12.2321 5.05064 12.2776 5.13215C12.3231 5.21367 12.3208 5.31371 12.2716 5.39296L9.33831 10.1246C9.29138 10.2001 9.20904 10.2462 9.12011 10.2464H9.1197ZM6.61803 5.51565L9.11826 9.50292L11.5905 5.51483L6.61803 5.51565Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M9.12361 10.2464C9.12258 10.2464 9.12093 10.2466 9.11949 10.2464H3.26271C3.16967 10.2464 3.08383 10.1962 3.03834 10.1149C2.99264 10.0336 2.99449 9.93438 3.04307 9.85492L5.93359 5.1233C5.98011 5.04714 6.06245 5.00062 6.15179 5C6.1522 5 6.15281 5 6.15323 5C6.24195 5 6.32408 5.0457 6.37122 5.12063L9.31669 9.81828C9.35683 9.86377 9.38112 9.92347 9.38112 9.98893C9.38092 10.1314 9.26585 10.2464 9.12361 10.2464ZM3.72134 9.73182H8.65469L6.1559 5.7464L3.72134 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M15.0077 10.2464C15.0067 10.2464 15.0053 10.2466 15.0036 10.2464H9.11968C9.02643 10.2464 8.94039 10.1958 8.8949 10.1143C8.8494 10.0328 8.85167 9.93273 8.90087 9.85348L11.834 5.12186C11.8809 5.04632 11.9635 5.00021 12.0524 5H12.0528C12.1417 5 12.2241 5.0459 12.2712 5.12124L15.201 9.81869C15.241 9.86418 15.2653 9.92367 15.2653 9.98893C15.2651 10.1314 15.15 10.2464 15.0077 10.2464ZM9.58181 9.73182H14.5401L12.0534 5.74476L9.58181 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M20.8129 10.2464C20.8119 10.2464 20.8102 10.2466 20.8088 10.2464H15.0039C14.9106 10.2464 14.8248 10.196 14.7791 10.1145C14.7336 10.033 14.7359 9.93355 14.7847 9.8541L17.6988 5.12248C17.7458 5.04632 17.8287 5 17.9179 5H17.9183C18.0078 5.00021 18.0908 5.04693 18.1373 5.1233L21.0072 9.82054C21.0463 9.86562 21.07 9.9245 21.07 9.98893C21.0702 10.1314 20.9551 10.2464 20.8129 10.2464ZM15.4646 9.73182H20.3502L17.9172 5.7497L15.4646 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0856 19.3742C12.0158 19.3742 11.9491 19.3458 11.9007 19.2958L3.07233 10.1681C3.00049 10.094 2.98011 9.98362 3.02046 9.88873C3.0606 9.79363 3.15385 9.73187 3.25718 9.73187H20.809C20.9119 9.73187 21.005 9.79342 21.0455 9.88811C21.0859 9.9828 21.0661 10.0925 20.9949 10.1668L12.2715 19.2945C12.2233 19.3452 12.1562 19.374 12.0864 19.3742H12.0856ZM3.86402 10.2465L12.0843 18.7455L20.2071 10.2465H3.86402Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0856 19.3741C11.9771 19.3741 11.876 19.305 11.841 19.1965L8.87496 10.0688C8.83091 9.93356 8.90501 9.78843 9.04005 9.74459C9.17591 9.70054 9.32062 9.77464 9.36426 9.90968L12.3301 19.0374C12.3742 19.1726 12.3001 19.3177 12.165 19.3616C12.1387 19.3702 12.1119 19.3741 12.0856 19.3741Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0942 19.3741C12.0685 19.3741 12.0421 19.3702 12.016 19.362C11.8807 19.3188 11.8058 19.1741 11.8488 19.0386L14.7585 9.9109C14.8017 9.77587 14.945 9.70073 15.0819 9.74375C15.2171 9.78698 15.292 9.93169 15.249 10.0671L12.3393 19.195C12.3044 19.3044 12.2033 19.3741 12.0942 19.3741Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<\/svg>",
+            "link_block": "shopify:\/\/pages\/appointment",
+            "button": "Book Now",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "4273663e-a3ea-49a8-a7c1-c872309fc99c": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Free resizing",
+            "description": "We’ll help you get it just right if it doesn't fit",
+            "type_icon": "svg",
+            "icon": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M13.2688 8.07846L15.103 6.33556C15.1932 6.24541 15.2232 6.09516 15.1631 5.97496L13.5093 3.15025C13.4492 3.0601 13.359 3 13.2387 3H9.96128C9.841 3 9.7508 3.0601 9.69066 3.15025L8.0369 5.97496C7.97677 6.09516 7.97677 6.24541 8.09704 6.33556L9.93121 8.07846C7.10478 8.82972 5 11.384 5 14.4491C5.03007 18.0551 7.97677 21 11.615 21C15.2533 21 18.2 18.0551 18.2 14.419C18.2 11.384 16.0952 8.79967 13.2688 8.07846ZM8.72847 6.06511L10.1718 3.57095H13.0884L14.5317 6.06511L12.5772 7.92821C12.2765 7.89816 11.9458 7.86811 11.6451 7.86811C11.3144 7.86811 11.0137 7.89816 10.713 7.92821L8.72847 6.06511ZM11.615 20.399C8.30752 20.399 5.63144 17.7245 5.63144 14.419C5.63144 11.1135 8.30752 8.46911 11.615 8.46911C14.9226 8.46911 17.5986 11.1436 17.5986 14.4491C17.5986 17.7546 14.9226 20.399 11.615 20.399Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.2\"><\/path>\n<\/svg>",
+            "link_block": "shopify:\/\/pages\/contact",
+            "button": "Contact Us",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        }
+      },
+      "block_order": [
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-0",
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-1",
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-2",
+        "4273663e-a3ea-49a8-a7c1-c872309fc99c"
+      ],
+      "custom_css": [
+        ".block-icon-text .iconx8 svg {stroke-width: 2px;}",
+        ".service-2 {text-align: left !important;}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container-fluid",
+        "bgsection": "#000000",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "paddingbox": "0px 0px 0px 0px",
+        "iconcolor": "#ffffff",
+        "titlecolor": "#ffffff",
+        "subcolor": "#ffffff",
+        "size": 40,
+        "service_heading": "h5",
+        "layout": "style-2",
+        "enable_carousel": false,
+        "arrows": false,
+        "draggable": true,
+        "dots": true,
+        "infinite": false,
+        "paddingsection": "10px 0px 10px 0px",
+        "paddingmobile": "30px 0px 10px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "line_GUx6Mi": {
+      "type": "line",
+      "settings": {
+        "animation": "fade",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#2d2d2d",
+        "setwidth": "full",
+        "bgborder": "#2d2d2d",
+        "wborder": "1px"
+      }
+    },
+    "image_content_xXwCH8": {
+      "type": "image-content",
+      "blocks": {
+        "image_block_EfiTpE": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lgbottom-2.svg"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_EfiTpE"
+      ],
+      "disabled": true,
+      "settings": {
+        "animation": "",
+        "setwidth": "container-fluid",
+        "bgsection": "#000000",
+        "rangebg": 0,
+        "bgbefore": "rgba(0,0,0,0)",
+        "bg_pos": "left",
+        "enable_padding": true,
+        "align_center": true,
+        "paddingsection": "40px 0px 40px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "newsletter-footer": {
+      "type": "newsletter-footer",
+      "settings": {
+        "enable_newletter_footer": false,
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#000000",
+        "newletter_color": "#ff6f2e",
+        "colorborder": "#e9e9e9",
+        "e_size": "cover",
+        "e_repeat": "no-repeat",
+        "title_top": "",
+        "title": "Subscrible & Get 10%  Discount",
+        "des": "",
+        "html_left": false,
+        "html_left_block": "",
+        "paddingsection": "60px 0px 0px 0px",
+        "paddingmobile": "30px 0px 30px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "ec49d85b-17bb-4b65-a49f-3086aa5430cd": {
+          "type": "newsletter",
+          "settings": {
+            "bg_new": "rgba(0,0,0,0)",
+            "border_new": "#a39d7a",
+            "btn_bg_new": "#071e40",
+            "btn_cl_new": "#ffffff",
+            "btn_cl_new_hover": "#ffffff",
+            "title": "",
+            "subheading": "<h4>Get 10% off your first order<\/h4><p>Be the first to know about new collections, exclusive offers, and events with Cadiant ✨<\/p>",
+            "enablesocial": true,
+            "width": "25%"
+          }
+        },
+        "text_NaYQAk": {
+          "type": "text",
+          "settings": {
+            "widthlogofooter": 130,
+            "title": "",
+            "text": "",
+            "width": "auto"
+          }
+        },
+        "1595696762386": {
+          "type": "text",
+          "settings": {
+            "widthlogofooter": 150,
+            "title": "Contact Us",
+            "text": "<div class=\" rte\">\n<p class=\"mt-3\">Email: clientcare@cadiant.com<br>\nPhone: 1.888.838.3022<br>\nHours: Monday – Thursday: 9AM – 7PM ET, Friday: 9AM – 2PM ET<\/p>\n<\/div>",
+            "width": "20%"
+          }
+        },
+        "1562342622030": {
+          "type": "menu",
+          "settings": {
+            "link_list": "information",
+            "width": "auto"
+          }
+        },
+        "1567410176792": {
+          "type": "menu",
+          "settings": {
+            "link_list": "footer",
+            "width": "auto"
+          }
+        },
+        "e9eb7f2c-c446-4ab6-9c0c-636e713bb621": {
+          "type": "menu",
+          "settings": {
+            "link_list": "shop",
+            "width": "auto"
+          }
+        }
+      },
+      "block_order": [
+        "ec49d85b-17bb-4b65-a49f-3086aa5430cd",
+        "text_NaYQAk",
+        "1595696762386",
+        "1562342622030",
+        "1567410176792",
+        "e9eb7f2c-c446-4ab6-9c0c-636e713bb621"
+      ],
+      "custom_css": [
+        ".site-footer__copyright {border-top: none;}",
+        ".footer-email {margin-top: -0.4rem;}",
+        ".site-footer__newsletter-label {--g-color-heading: white;}"
+      ],
+      "settings": {
+        "setwidth": "container-fluid",
+        "background": "#000000",
+        "border_headfooter": "rgba(0,0,0,0)",
+        "border-copryright": "#474439",
+        "text": "#ffffff",
+        "text_hover": "#ff6f2e",
+        "title": "#ffffff",
+        "footer_align_title": "left",
+        "enable_border": false,
+        "footer_font_family": "--g-font-2",
+        "footer_font_size_title": 12,
+        "footer_font_weight": "500",
+        "footer_spacing": 0.1,
+        "footer_typetext": "uppercase",
+        "acc_mobile": true,
+        "e_ft_currency": true,
+        "enable_image": true,
+        "enable_name": true,
+        "enable_language_selector": true,
+        "payment_info": "svg",
+        "link_list_bottom": "",
+        "copyright": false,
+        "customcopyright": "All rights reserved.",
+        "padding_top": 64,
+        "padding_bottom": 32,
+        "m_padding_top": 32,
+        "m_padding_bottom": 0
+      }
+    },
+    "line_bt7ckH": {
+      "type": "line",
+      "settings": {
+        "animation": "fade",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#ffffff",
+        "setwidth": "full",
+        "bgborder": "#2d2d2d",
+        "wborder": "1px"
+      }
+    },
+    "062de4af-6112-4c1c-afd5-d843383892f3": {
+      "type": "rich-text",
+      "settings": {
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#000000",
+        "gradient_bg": "",
+        "title_color": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "text": "<p>© 2024 - Cadiant. All rights reserved.<\/p>",
+        "align-heading": "center",
+        "align-content": "center",
+        "paddingsection": "10px 0px 0px 0px",
+        "paddingmobile": "10px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    }
+  },
+  "order": [
+    "16485444103c52f5e9",
+    "line_GUx6Mi",
+    "image_content_xXwCH8",
+    "newsletter-footer",
+    "footer",
+    "line_bt7ckH",
+    "062de4af-6112-4c1c-afd5-d843383892f3"
+  ]
+}
