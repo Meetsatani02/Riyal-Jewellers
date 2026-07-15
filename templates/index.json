@@ -1,1 +1,543 @@
-{"sections":{"featured_collections_5_KCURDd":{"type":"featured-collections-5","blocks":{"collection_4WTAW8":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/necklace-2.jpg","size_title":"h4","color":"#ffffff","collection_position":"bot-left","enable_customizetext":true,"collection_subheading":"20% Off","collection_heading":"Round | Brilliant |","space_heading":"mb-3","collection_paragraph":"","collection_btn":"Shop now","collection_link":"shopify:\/\/collections\/best-seller","style_btn":"btn-underline btn-underline-white","enable_gradient":true,"bg_overlay":"#222222","opacity_overlay":0.4}},"collection_99hi93":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/jwell-2.jpg","size_title":"h4","color":"#ffffff","collection_position":"bot-left","enable_customizetext":true,"collection_subheading":"","collection_heading":"Loose | Stone |","space_heading":"mb-2","collection_paragraph":"","collection_btn":"Shop now","collection_link":"","style_btn":"btn-underline btn-underline-white","enable_gradient":true,"bg_overlay":"#222222","opacity_overlay":0.4}},"collection_heLRtK":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/set.jpg","size_title":"h4","color":"#071e40","collection_position":"bot-left","enable_customizetext":true,"collection_subheading":"","collection_heading":"Necklaces","space_heading":"mb-2","collection_paragraph":"","collection_btn":"Shop now","collection_link":"shopify:\/\/collections\/necklaces","style_btn":"btn-underline","enable_gradient":false,"bg_overlay":"#222222","opacity_overlay":0}},"collection_YwDeQw":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/ear_ring.jpg","size_title":"h4","color":"#071e40","collection_position":"bot-left","enable_customizetext":true,"collection_subheading":"","collection_heading":"Earrings","space_heading":"mb-2","collection_paragraph":"","collection_btn":"Shop now","collection_link":"shopify:\/\/collections\/earrings","style_btn":"btn-underline","enable_gradient":true,"bg_overlay":"#222222","opacity_overlay":0}},"collection_yMa8Er":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/ring.jpg","size_title":"h4","color":"#ffffff","collection_position":"bot-left","enable_customizetext":true,"collection_subheading":"","collection_heading":"Shop | Rings |","space_heading":"mb-2","collection_paragraph":"","collection_btn":"Shop now","collection_link":"shopify:\/\/collections\/rings","style_btn":"btn-underline btn-underline-white","enable_gradient":true,"bg_overlay":"#222222","opacity_overlay":0.4}}},"block_order":["collection_4WTAW8","collection_99hi93","collection_heLRtK","collection_YwDeQw","collection_yMa8Er"],"settings":{"animation":"","setwidth":"container","bgsection":"#ffffff","title_top":"","title":"","des":"","align-heading":"center","layout":"collage-3","col":"col-lg-4","enable_padding":true,"gutter_padding":20,"enable_count":true,"size_image_col":"auto","paddingsection":"80px 0px 0px 0px","paddingmobile":"40px 0px 40px 0px","marginsection":"0px 0px 0px 0px","marginmobile":"0px 0px 0px 0px"}},"16601928830ceb6d9f":{"type":"product-list-swiper","settings":{"animation":"fade-up","setwidth":"container","e_size":"auto","e_repeat":"no-repeat","e_position":"center center","bgsection":"#ffffff","title_color":"rgba(0,0,0,0)","title_top":"","title":"Trending | Product |","des":"Preorder now to receive exclusive deals & gifts","align-heading":"center","collection":"new-arrival","limit":8,"perviewDesktop":4,"spaceBetween":20,"nowrap":false,"arrows":true,"scrollbar":false,"enable_same_height":true,"buttonall":"","buttonall_link":"","style_btn":"btn-theme","enable_first_banner":false,"width_banner":30,"subtitle_banner":"Sub Title","title_banner":"Title Banner","size_text":"h2","des_banner":"Protection from the","pos_banner":"mid-center","button_banner":"discover now","link_banner":"","style_btn_banner":"btn-underline btn-underline-white","text_banner_color":"#ffffff","overlay_banner":"#000000","opacity_banner":0.2,"paddingsection":"88px 0px 0px 0px","paddingmobile":"32px 0px 40px 0px","marginsection":"0px 0px 0px 0px","marginmobile":"0px 0px 0px 0px"}},"rich_text_JbqGfr":{"type":"rich-text","blocks":{"heading_qbVDTz":{"type":"heading","settings":{"title":"Silver | Rings |","size_text":"h2"}},"button_n7NqYE":{"type":"button","settings":{"button":"Shop now","link":"shopify:\/\/collections\/rings","style_btn":"btn-theme"}}},"block_order":["heading_qbVDTz","button_n7NqYE"],"settings":{"animation":"fade-up","setwidth":"container","bgsection":"#ffffff","gradient_bg":"","title_color":"rgba(0,0,0,0)","title_top":"","title":"","text":"","align-heading":"center","align-content":"center","paddingsection":"80px 0px 40px 0px","paddingmobile":"40px 0px 40px 0px","marginsection":"0px 0px 0px 0px","marginmobile":"0px 0px 0px 0px"}},"parallax_banner_tHrUpw":{"type":"parallax-banner","settings":{"animation":"fade-up","setwidth":"full","bgsection":"#ffffff","parrallax_enable":true,"height_section":"650","height_section_mobile":"450","align":"center","position_text":"mid-center","bg_box":"#ffffff","opacity_bgbox":0,"title_color":"rgba(0,0,0,0)","bg_overlay":"#000000","gradient_bg":"","opacity_bg_overlay":0.1,"paddingsection":"0px 0px 0px 0px","marginsection":"0px 0px 0px 0px"}},"rich_text_meEfHB":{"type":"rich-text","blocks":{"heading_igE3hg":{"type":"heading","settings":{"title":"Sterling | Silver |","size_text":"h2"}},"button_UMxxAj":{"type":"button","settings":{"button":"Shop now","link":"shopify:\/\/collections\/rings","style_btn":"btn-theme"}}},"block_order":["heading_igE3hg","button_UMxxAj"],"settings":{"animation":"fade-up","setwidth":"container","bgsection":"#ffffff","gradient_bg":"","title_color":"rgba(0,0,0,0)","title_top":"","title":"","text":"","align-heading":"center","align-content":"center","paddingsection":"80px 0px 40px 0px","paddingmobile":"40px 0px 40px 0px","marginsection":"0px 0px 0px 0px","marginmobile":"0px 0px 0px 0px"}},"parallax_banner_rYdHaF":{"type":"parallax-banner","settings":{"animation":"fade-up","setwidth":"full","bgsection":"#ffffff","parrallax_enable":true,"height_section":"650","height_section_mobile":"450","align":"center","position_text":"mid-center","bg_box":"#ffffff","opacity_bgbox":0,"title_color":"rgba(0,0,0,0)","bg_overlay":"#000000","gradient_bg":"","opacity_bg_overlay":0.1,"paddingsection":"0px 0px 0px 0px","marginsection":"0px 0px 0px 0px"}},"grid_banner_2_TRQdF7":{"type":"grid-banner-2","blocks":{"banner_yWmC6n":{"type":"banner","settings":{"paddingblock":"0px 0px 0px 0px","border_banner":"#ffffff","bg_banner":"#ffffff","image":"shopify:\/\/shop_images\/necklace.jpg","width":"4","description":"<h4 class=\"mb-4\">Silver Necklaces<\/h4>","button_text":"Shop now","button_link":"shopify:\/\/collections\/necklaces","style_btn":"btn-theme","reverse":"flex-column","text_align":"center"}},"banner_MjizTV":{"type":"banner","settings":{"paddingblock":"0px 0px 0px 0px","border_banner":"#ffffff","bg_banner":"#ffffff","image":"shopify:\/\/shop_images\/gift_ring.jpg","width":"4","description":"<h4 class=\"mb-4\">Gifts for her<\/h4>","button_text":"Shop now","button_link":"shopify:\/\/collections\/earrings","style_btn":"btn-theme","reverse":"flex-column","text_align":"center"}},"banner_MG4Uj6":{"type":"banner","settings":{"paddingblock":"0px 0px 0px 0px","border_banner":"#ffffff","bg_banner":"#ffffff","image":"shopify:\/\/shop_images\/signature.jpg","width":"4","description":"<h4 class=\"mb-4\">Signature Styles<\/h4>","button_text":"Shop now","button_link":"shopify:\/\/collections\/earrings","style_btn":"btn-theme","reverse":"flex-column","text_align":"center"}}},"block_order":["banner_yWmC6n","banner_MjizTV","banner_MG4Uj6"],"custom_css":[".banner-text--block {border-radius: var(--g-radius-block);}"],"settings":{"animation":"fade-up","setwidth":"full","bgsection":"#ffffff","title_top":"","title":"","des":"","align-heading":"left","no_gutter":false,"gutter_padding":10,"paddingsection":"10px 10px 80px 10px","paddingmobile":"10px 0px 40px 0px","marginsection":"0px 0px 0px 0px","marginmobile":"0px 0px 0px 0px"}},"rich_text_7JrRxM":{"type":"rich-text","blocks":{"heading_NaEk3d":{"type":"heading","settings":{"title":"Since being founded in 2015, | Riyal Jewellers | has turned sterling silver into an everyday occasion while working towards making a positive impact in our communities, <i> the industry, and the world.<\/i>","size_text":"h3"}},"paragraph_ETkrJj":{"type":"paragraph","settings":{"subtext":"Because jewelry is an expression of self, and how you show up in the world should have no limits. That’s why we work with trusted suppliers across the globe, using high-quality, responsibly-sourced materials to create pieces meant to last a lifetime that feel like you."}},"button_c7YJEA":{"type":"button","settings":{"button":"Learn more","link":"#","style_btn":"btn-underline"}},"button_FXBWCh":{"type":"button","settings":{"button":"Contact us","link":"shopify:\/\/pages\/contact","style_btn":"btn-underline"}}},"block_order":["heading_NaEk3d","paragraph_ETkrJj","button_c7YJEA","button_FXBWCh"],"settings":{"animation":"fade-up","setwidth":"container","bgsection":"#f2b95c","gradient_bg":"","title_color":"rgba(0,0,0,0)","title_top":"","title":"","text":"","align-heading":"center","align-content":"center","paddingsection":"80px 0px 80px 0px","paddingmobile":"40px 0px 40px 0px","marginsection":"0px 0px 0px 0px","marginmobile":"0px 0px 0px 0px"}},"product_list_swiper_a7yaB9":{"type":"product-list-swiper","settings":{"animation":"fade-up","setwidth":"container","e_size":"auto","e_repeat":"no-repeat","e_position":"center center","bgsection":"#ffffff","title_color":"rgba(0,0,0,0)","title_top":"","title":"Trending | Products |","des":"Preorder now to receive exclusive deals & gifts","align-heading":"center","collection":"best-seller","limit":8,"perviewDesktop":4,"spaceBetween":20,"nowrap":false,"arrows":true,"scrollbar":false,"enable_same_height":true,"buttonall":"","buttonall_link":"","style_btn":"btn-theme","enable_first_banner":false,"width_banner":30,"subtitle_banner":"Sub Title","title_banner":"Title Banner","size_text":"h2","des_banner":"Protection from the","pos_banner":"mid-center","button_banner":"discover now","link_banner":"","style_btn_banner":"btn-underline btn-underline-white","text_banner_color":"#ffffff","overlay_banner":"#000000","opacity_banner":0.2,"paddingsection":"88px 0px 40px 0px","paddingmobile":"32px 0px 40px 0px","marginsection":"0px 0px 0px 0px","marginmobile":"0px 0px 0px 0px"}},"line_Dpaarz":{"type":"line","settings":{"animation":"","paddingsection":"0px 0px 0px 0px","marginsection":"0px 0px 0px 0px","bgsection":"#ffffff","setwidth":"container","bgborder":"#dddddd","wborder":"1px"}},"featured_articles_2_Xae6gD":{"type":"featured-articles-2","settings":{"animation":"fade-up","setwidth":"container","zindex":"0","bgsection":"#ffffff","rangebg":0,"bgbefore":"#e3c9b8","title_top":"","title":"Blog | Posts |","des":"Preorder now to receive exclusive deals & gifts","align-heading":"center","blog":"news","image_size":"landscape","reverse":false,"buttonall":"Read All","buttonall_link":"shopify:\/\/blogs\/news","style_btn":"btn-outline","paddingsection":"80px 0px 80px 0px","paddingmobile":"40px 0px 40px 0px","marginsection":"0px 0px 0px 0px","marginmobile":"0px 0px 0px 0px"}}},"order":["featured_collections_5_KCURDd","16601928830ceb6d9f","rich_text_JbqGfr","parallax_banner_tHrUpw","rich_text_meEfHB","parallax_banner_rYdHaF","grid_banner_2_TRQdF7","rich_text_7JrRxM","product_list_swiper_a7yaB9","line_Dpaarz","featured_articles_2_Xae6gD"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_collections_5_KCURDd": {
+      "type": "featured-collections-5",
+      "blocks": {
+        "collection_4WTAW8": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/necklace-2.jpg",
+            "size_title": "h4",
+            "color": "#ffffff",
+            "collection_position": "bot-left",
+            "enable_customizetext": true,
+            "collection_subheading": "20% Off",
+            "collection_heading": "Round | Brilliant |",
+            "space_heading": "mb-3",
+            "collection_paragraph": "",
+            "collection_btn": "Shop now",
+            "collection_link": "shopify://collections/best-seller",
+            "style_btn": "btn-underline btn-underline-white",
+            "enable_gradient": true,
+            "bg_overlay": "#222222",
+            "opacity_overlay": 0.4
+          }
+        },
+        "collection_99hi93": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/jwell-2.jpg",
+            "size_title": "h4",
+            "color": "#ffffff",
+            "collection_position": "bot-left",
+            "enable_customizetext": true,
+            "collection_subheading": "",
+            "collection_heading": "Loose | Stone |",
+            "space_heading": "mb-2",
+            "collection_paragraph": "",
+            "collection_btn": "Shop now",
+            "collection_link": "",
+            "style_btn": "btn-underline btn-underline-white",
+            "enable_gradient": true,
+            "bg_overlay": "#222222",
+            "opacity_overlay": 0.4
+          }
+        },
+        "collection_heLRtK": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/set.jpg",
+            "size_title": "h4",
+            "color": "#071e40",
+            "collection_position": "bot-left",
+            "enable_customizetext": true,
+            "collection_subheading": "",
+            "collection_heading": "Necklaces",
+            "space_heading": "mb-2",
+            "collection_paragraph": "",
+            "collection_btn": "Shop now",
+            "collection_link": "shopify://collections/necklaces",
+            "style_btn": "btn-underline",
+            "enable_gradient": false,
+            "bg_overlay": "#222222",
+            "opacity_overlay": 0
+          }
+        },
+        "collection_YwDeQw": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/ear_ring.jpg",
+            "size_title": "h4",
+            "color": "#071e40",
+            "collection_position": "bot-left",
+            "enable_customizetext": true,
+            "collection_subheading": "",
+            "collection_heading": "Earrings",
+            "space_heading": "mb-2",
+            "collection_paragraph": "",
+            "collection_btn": "Shop now",
+            "collection_link": "shopify://collections/earrings",
+            "style_btn": "btn-underline",
+            "enable_gradient": true,
+            "bg_overlay": "#222222",
+            "opacity_overlay": 0
+          }
+        },
+        "collection_yMa8Er": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/ring.jpg",
+            "size_title": "h4",
+            "color": "#ffffff",
+            "collection_position": "bot-left",
+            "enable_customizetext": true,
+            "collection_subheading": "",
+            "collection_heading": "Shop | Rings |",
+            "space_heading": "mb-2",
+            "collection_paragraph": "",
+            "collection_btn": "Shop now",
+            "collection_link": "shopify://collections/rings",
+            "style_btn": "btn-underline btn-underline-white",
+            "enable_gradient": true,
+            "bg_overlay": "#222222",
+            "opacity_overlay": 0.4
+          }
+        }
+      },
+      "block_order": [
+        "collection_4WTAW8",
+        "collection_99hi93",
+        "collection_heLRtK",
+        "collection_YwDeQw",
+        "collection_yMa8Er"
+      ],
+      "settings": {
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "layout": "collage-3",
+        "col": "col-lg-4",
+        "enable_padding": true,
+        "gutter_padding": 20,
+        "enable_count": true,
+        "size_image_col": "auto",
+        "paddingsection": "80px 0px 0px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "16601928830ceb6d9f": {
+      "type": "product-list-swiper",
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "e_size": "auto",
+        "e_repeat": "no-repeat",
+        "e_position": "center center",
+        "bgsection": "#ffffff",
+        "title_color": "rgba(0,0,0,0)",
+        "title_top": "",
+        "title": "Trending | Product |",
+        "des": "Preorder now to receive exclusive deals & gifts",
+        "align-heading": "center",
+        "collection": "frontpage",
+        "limit": 8,
+        "perviewDesktop": 4,
+        "spaceBetween": 20,
+        "nowrap": false,
+        "arrows": true,
+        "scrollbar": false,
+        "enable_same_height": true,
+        "buttonall": "",
+        "buttonall_link": "",
+        "style_btn": "btn-theme",
+        "enable_first_banner": false,
+        "width_banner": 30,
+        "subtitle_banner": "Sub Title",
+        "title_banner": "Title Banner",
+        "size_text": "h2",
+        "des_banner": "Protection from the",
+        "pos_banner": "mid-center",
+        "button_banner": "discover now",
+        "link_banner": "",
+        "style_btn_banner": "btn-underline btn-underline-white",
+        "text_banner_color": "#ffffff",
+        "overlay_banner": "#000000",
+        "opacity_banner": 0.2,
+        "paddingsection": "88px 0px 0px 0px",
+        "paddingmobile": "32px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "rich_text_JbqGfr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qbVDTz": {
+          "type": "heading",
+          "settings": {
+            "title": "Silver | Rings |",
+            "size_text": "h2"
+          }
+        },
+        "button_n7NqYE": {
+          "type": "button",
+          "settings": {
+            "button": "Shop now",
+            "link": "shopify://collections/rings",
+            "style_btn": "btn-theme"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qbVDTz",
+        "button_n7NqYE"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "gradient_bg": "",
+        "title_color": "rgba(0,0,0,0)",
+        "title_top": "",
+        "title": "",
+        "text": "",
+        "align-heading": "center",
+        "align-content": "center",
+        "paddingsection": "80px 0px 40px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "parallax_banner_tHrUpw": {
+      "type": "parallax-banner",
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "full",
+        "bgsection": "#ffffff",
+        "parrallax_enable": true,
+        "image": "shopify://shop_images/hero-img.png",
+        "height_section": "650",
+        "height_section_mobile": "450",
+        "align": "center",
+        "position_text": "mid-center",
+        "bg_box": "#ffffff",
+        "opacity_bgbox": 0,
+        "title_color": "rgba(0,0,0,0)",
+        "bg_overlay": "#000000",
+        "gradient_bg": "",
+        "opacity_bg_overlay": 0.1,
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px"
+      }
+    },
+    "rich_text_meEfHB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_igE3hg": {
+          "type": "heading",
+          "settings": {
+            "title": "Sterling | Silver |",
+            "size_text": "h2"
+          }
+        },
+        "button_UMxxAj": {
+          "type": "button",
+          "settings": {
+            "button": "Shop now",
+            "link": "shopify://collections/rings",
+            "style_btn": "btn-theme"
+          }
+        }
+      },
+      "block_order": [
+        "heading_igE3hg",
+        "button_UMxxAj"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "gradient_bg": "",
+        "title_color": "rgba(0,0,0,0)",
+        "title_top": "",
+        "title": "",
+        "text": "",
+        "align-heading": "center",
+        "align-content": "center",
+        "paddingsection": "80px 0px 40px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "parallax_banner_rYdHaF": {
+      "type": "parallax-banner",
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "full",
+        "bgsection": "#ffffff",
+        "parrallax_enable": true,
+        "image": "shopify://shop_images/hero-img2.png",
+        "height_section": "650",
+        "height_section_mobile": "450",
+        "align": "center",
+        "position_text": "mid-center",
+        "bg_box": "#ffffff",
+        "opacity_bgbox": 0,
+        "title_color": "rgba(0,0,0,0)",
+        "bg_overlay": "#000000",
+        "gradient_bg": "",
+        "opacity_bg_overlay": 0.1,
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px"
+      }
+    },
+    "grid_banner_2_TRQdF7": {
+      "type": "grid-banner-2",
+      "blocks": {
+        "banner_yWmC6n": {
+          "type": "banner",
+          "settings": {
+            "paddingblock": "0px 0px 0px 0px",
+            "border_banner": "#ffffff",
+            "bg_banner": "#ffffff",
+            "image": "shopify://shop_images/necklace.jpg",
+            "width": "4",
+            "description": "<h4 class=\"mb-4\">Silver Necklaces</h4>",
+            "button_text": "Shop now",
+            "button_link": "shopify://collections/necklaces",
+            "style_btn": "btn-theme",
+            "reverse": "flex-column",
+            "text_align": "center"
+          }
+        },
+        "banner_MjizTV": {
+          "type": "banner",
+          "settings": {
+            "paddingblock": "0px 0px 0px 0px",
+            "border_banner": "#ffffff",
+            "bg_banner": "#ffffff",
+            "image": "shopify://shop_images/gift_ring.jpg",
+            "width": "4",
+            "description": "<h4 class=\"mb-4\">Gifts for her</h4>",
+            "button_text": "Shop now",
+            "button_link": "shopify://collections/earrings",
+            "style_btn": "btn-theme",
+            "reverse": "flex-column",
+            "text_align": "center"
+          }
+        },
+        "banner_MG4Uj6": {
+          "type": "banner",
+          "settings": {
+            "paddingblock": "0px 0px 0px 0px",
+            "border_banner": "#ffffff",
+            "bg_banner": "#ffffff",
+            "image": "shopify://shop_images/signature.jpg",
+            "width": "4",
+            "description": "<h4 class=\"mb-4\">Signature Styles</h4>",
+            "button_text": "Shop now",
+            "button_link": "shopify://collections/earrings",
+            "style_btn": "btn-theme",
+            "reverse": "flex-column",
+            "text_align": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_yWmC6n",
+        "banner_MjizTV",
+        "banner_MG4Uj6"
+      ],
+      "custom_css": [
+        ".banner-text--block {border-radius: var(--g-radius-block);}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "full",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "left",
+        "no_gutter": false,
+        "gutter_padding": 10,
+        "paddingsection": "10px 10px 80px 10px",
+        "paddingmobile": "10px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "rich_text_7JrRxM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NaEk3d": {
+          "type": "heading",
+          "settings": {
+            "title": "Since being founded in 2015, | Riyal Jewellers | has turned sterling silver into an everyday occasion while working towards making a positive impact in our communities, <i> the industry, and the world.</i>",
+            "size_text": "h3"
+          }
+        },
+        "paragraph_ETkrJj": {
+          "type": "paragraph",
+          "settings": {
+            "subtext": "Because jewelry is an expression of self, and how you show up in the world should have no limits. That’s why we work with trusted suppliers across the globe, using high-quality, responsibly-sourced materials to create pieces meant to last a lifetime that feel like you."
+          }
+        },
+        "button_c7YJEA": {
+          "type": "button",
+          "settings": {
+            "button": "Learn more",
+            "link": "#",
+            "style_btn": "btn-underline"
+          }
+        },
+        "button_FXBWCh": {
+          "type": "button",
+          "settings": {
+            "button": "Contact us",
+            "link": "shopify://pages/contact",
+            "style_btn": "btn-underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NaEk3d",
+        "paragraph_ETkrJj",
+        "button_c7YJEA",
+        "button_FXBWCh"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#f2b95c",
+        "gradient_bg": "",
+        "title_color": "rgba(0,0,0,0)",
+        "title_top": "",
+        "title": "",
+        "text": "",
+        "align-heading": "center",
+        "align-content": "center",
+        "paddingsection": "80px 0px 80px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "product_list_swiper_a7yaB9": {
+      "type": "product-list-swiper",
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "e_size": "auto",
+        "e_repeat": "no-repeat",
+        "e_position": "center center",
+        "bgsection": "#ffffff",
+        "title_color": "rgba(0,0,0,0)",
+        "title_top": "",
+        "title": "Trending | Products |",
+        "des": "Preorder now to receive exclusive deals & gifts",
+        "align-heading": "center",
+        "collection": "best-seller",
+        "limit": 8,
+        "perviewDesktop": 4,
+        "spaceBetween": 20,
+        "nowrap": false,
+        "arrows": true,
+        "scrollbar": false,
+        "enable_same_height": true,
+        "buttonall": "",
+        "buttonall_link": "",
+        "style_btn": "btn-theme",
+        "enable_first_banner": false,
+        "width_banner": 30,
+        "subtitle_banner": "Sub Title",
+        "title_banner": "Title Banner",
+        "size_text": "h2",
+        "des_banner": "Protection from the",
+        "pos_banner": "mid-center",
+        "button_banner": "discover now",
+        "link_banner": "",
+        "style_btn_banner": "btn-underline btn-underline-white",
+        "text_banner_color": "#ffffff",
+        "overlay_banner": "#000000",
+        "opacity_banner": 0.2,
+        "paddingsection": "88px 0px 40px 0px",
+        "paddingmobile": "32px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "line_Dpaarz": {
+      "type": "line",
+      "settings": {
+        "animation": "",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#ffffff",
+        "setwidth": "container",
+        "bgborder": "#dddddd",
+        "wborder": "1px"
+      }
+    },
+    "featured_articles_2_Xae6gD": {
+      "type": "featured-articles-2",
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "zindex": "0",
+        "bgsection": "#ffffff",
+        "rangebg": 0,
+        "bgbefore": "#e3c9b8",
+        "title_top": "",
+        "title": "Blog | Posts |",
+        "des": "Preorder now to receive exclusive deals & gifts",
+        "align-heading": "center",
+        "blog": "news",
+        "image_size": "landscape",
+        "reverse": false,
+        "buttonall": "Read All",
+        "buttonall_link": "shopify://blogs/news",
+        "style_btn": "btn-outline",
+        "paddingsection": "80px 0px 80px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    }
+  },
+  "order": [
+    "featured_collections_5_KCURDd",
+    "16601928830ceb6d9f",
+    "rich_text_JbqGfr",
+    "parallax_banner_tHrUpw",
+    "rich_text_meEfHB",
+    "parallax_banner_rYdHaF",
+    "grid_banner_2_TRQdF7",
+    "rich_text_7JrRxM",
+    "product_list_swiper_a7yaB9",
+    "line_Dpaarz",
+    "featured_articles_2_Xae6gD"
+  ]
+}
