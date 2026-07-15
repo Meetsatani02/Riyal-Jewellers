@@ -71,7 +71,7 @@
       "settings": {
         "animation": "fade-up",
         "setwidth": "container-fluid",
-        "bgsection": "#000000",
+        "bgsection": "#071e40",
         "title_top": "",
         "title": "",
         "des": "",
@@ -123,7 +123,7 @@
       "settings": {
         "animation": "",
         "setwidth": "container-fluid",
-        "bgsection": "#000000",
+        "bgsection": "#071e40",
         "rangebg": 0,
         "bgbefore": "rgba(0,0,0,0)",
         "bg_pos": "left",
@@ -141,7 +141,7 @@
         "enable_newletter_footer": false,
         "animation": "",
         "setwidth": "container",
-        "bgsection": "#000000",
+        "bgsection": "#071e40",
         "newletter_color": "#c3935b",
         "colorborder": "#e9e9e9",
         "e_size": "cover",
@@ -229,7 +229,7 @@
       ],
       "settings": {
         "setwidth": "container-fluid",
-        "background": "#000000",
+        "background": "#071e40",
         "border_headfooter": "rgba(0,0,0,0)",
         "border-copryright": "#474439",
         "text": "#ffffff",
@@ -274,7 +274,7 @@
       "settings": {
         "animation": "",
         "setwidth": "container",
-        "bgsection": "#000000",
+        "bgsection": "#071e40",
         "gradient_bg": "",
         "title_color": "#ffffff",
         "title_top": "",
